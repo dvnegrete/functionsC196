@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0"
+  },
+  "name": "functionsc196",
+  "version": "1.0.0",
+  "description": "API rest Courses C-196",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dvnegrete/functionsC196.git"
+  },
+  "author": "Damian Valenzuela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvnegrete/functionsC196/issues"
+  },
+  "homepage": "https://github.com/dvnegrete/functionsC196#readme"
+}
