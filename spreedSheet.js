@@ -1,8 +1,8 @@
 const { JWT } = require ('google-auth-library');
 const { GoogleSpreadsheet } = require("google-spreadsheet");
 
-const coursesModel = require('../models/coursesModel');;
-const { client_email, private_key, idsheet196Courses} = require('../config');
+const coursesModel = require('./coursesModel');;
+const { client_email, private_key, idsheet196Courses} = require('./config');
 
 async function conexionGoogleSheet() {
     const serviceAccountAuth = new JWT({

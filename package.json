@@ -9,7 +9,7 @@
   "description": "API rest Courses C-196",
   "main": "index.js",
   "scripts": {
-    "start": "functions-framework --target=apiC196"
+    "start": "functions-framework --target=C196"
   },
   "repository": {
     "type": "git",
